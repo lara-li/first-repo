@@ -13,6 +13,10 @@ q is for quit
 esc+ : + x is another shortcut  for exit 
 git commit -a 
 git reset --hard HEAD~(without-space)[number of commits you want to reset ]
+git rm [file-name]
+cls
+git add remote origin [url]
+git push origin main
 
 git repositories=local repositories
 gitHub repositories=remote repositories
