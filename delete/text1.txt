@@ -20,3 +20,7 @@ git push origin main
 
 git repositories=local repositories
 gitHub repositories=remote repositories
+git credential reject=>enter
+host=github.com=>enter
+protocol=https=>enter
+and credential deletion is completed! 
