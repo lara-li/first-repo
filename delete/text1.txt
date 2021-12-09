@@ -24,3 +24,4 @@ git credential reject=>enter
 host=github.com=>enter
 protocol=https=>enter
 and credential deletion is completed! 
+this line is created after cloning.
