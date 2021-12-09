@@ -7,7 +7,7 @@ git reset [file name/ or relative path]
 git restore --staged [file name/ or relative path]
 git restore [file name/ or relative path]
 git checkout -B [branch name(new or created one)]
-git checkout -D[branch name(new or created one)]
+git branch -D[branch name(created one)]
 git checkout -- .
 q is for quit 
 esc+ : + x is another shortcut  for exit 
