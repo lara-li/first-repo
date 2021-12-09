@@ -1,3 +1,4 @@
 it is going to be deleted.
 
 more text.
+changes to be staged
