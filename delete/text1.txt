@@ -1,4 +1,15 @@
-it is going to be deleted.
-
-more text.
-changes to be staged
+git status 
+git add [file name]
+git add .
+git commit -m "[write sth]
+git log
+git reset [file name/ or relative path]
+git restore --staged [file name/ or relative path]
+git restore [file name/ or relative path]
+git checkout -B [branch name(new or created one)]
+git checkout -D[branch name(new or created one)]
+git checkout -- .
+q is for quit 
+esc+ : + x is another shortcut  for exit 
+git commit -a 
+git reset --hard HEAD~ [number of commits you want to reset ]
